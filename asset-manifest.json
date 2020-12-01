@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spiced-green-tea/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/spiced-green-tea/static/js/main.a392ec80.chunk.js",
+    "main.js.map": "/spiced-green-tea/static/js/main.a392ec80.chunk.js.map",
+    "runtime-main.js": "/spiced-green-tea/static/js/runtime-main.1906e9a4.js",
+    "runtime-main.js.map": "/spiced-green-tea/static/js/runtime-main.1906e9a4.js.map",
+    "static/js/2.3361041a.chunk.js": "/spiced-green-tea/static/js/2.3361041a.chunk.js",
+    "static/js/2.3361041a.chunk.js.map": "/spiced-green-tea/static/js/2.3361041a.chunk.js.map",
+    "static/js/3.4eab3971.chunk.js": "/spiced-green-tea/static/js/3.4eab3971.chunk.js",
+    "static/js/3.4eab3971.chunk.js.map": "/spiced-green-tea/static/js/3.4eab3971.chunk.js.map",
+    "index.html": "/spiced-green-tea/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/spiced-green-tea/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3361041a.chunk.js.LICENSE.txt": "/spiced-green-tea/static/js/2.3361041a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/spiced-green-tea/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1906e9a4.js",
+    "static/js/2.3361041a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a392ec80.chunk.js"
+  ]
+}
